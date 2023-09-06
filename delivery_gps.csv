@@ -1,0 +1,6 @@
+eventId,eventCount ,uuid ,eventFlag ,ipAddress ,timestamp ,timezone ,latitude ,longitude 
+1,1,bd7b10e3-9199-3ee8-866b-1a08574fed07 ,557056,107.242.121.1,1.69E+12,America/Los_Angeles,41.039148,-122.39544
+2,1,bd7b10e3-9199-3ee8-866b-1a08574fed07 ,32768,,1.69E+12,America/Los_Angeles ,41.03917,-122.39547
+3,1,bd7b10e3-9199-3ee8-866b-1a08574fed07 ,32768,,1.69E+12,America/Los_Angeles ,41.03913,-122.39544
+4,10,bd7b10e3-9199-3ee8-866b-1a08574fed07 ,557056,107.242.121.1 ,1.69E+12,America/Los_Angeles,41.039177,-122.39542
+5,1,bd7b10e3-9199-3ee8-866b-1a08574fed07 ,557056,107.242.121.1 ,1.69E+12,America/Los_Angeles ,41.039182,-122.39544
