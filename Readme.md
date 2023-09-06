@@ -1,3 +1,5 @@
+# you can download the map.html file or open the notebook in collab to see the map!
+
 Step 1: Load and Prepare the Data
 
 First, i need to load GPS event log data into a pandas DataFrame.  from the CSV file format.
