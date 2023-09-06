@@ -8,6 +8,7 @@ Step 2: Data Preprocessing
 
 I Checked and clean data if needed. This may include handling missing values, data type conversions,
 and renaming columns.
+all though this data is related to single person i am filling missing rows in the ipAddress column with same values
 
 Step:3 Synthetic Data Generation
 
